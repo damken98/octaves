@@ -1,0 +1,103 @@
+.tete
+{
+	font-size: 25px;
+	color: blue;
+
+}
+a
+{
+	color: black;
+	text-decoration: none;
+	text-overflow: red;
+}
+#acceuil
+{
+	display: flex;
+	justify-content: space-between;
+}
+#first
+{
+}
+#pagenav
+{
+	font-size: 20px;
+}
+
+nav
+{
+	width: 210px;
+	height: 594px;
+	float: left;
+	border: black solid;
+	background-color: green;
+
+}
+#intro
+{
+	font-style: italic;
+
+}
+section
+{
+	text-align: justify;
+	margin-right: 5%;
+	margin-left: 21%;
+}
+#bienvenue
+{
+	font-size: 30px;
+	text-align: center;
+}
+form
+{
+	width: 40%;
+}
+body
+{
+	background-color: yellow;
+}
+#ext
+{
+
+}
+.p1
+{
+	font-size: 28px;
+}
+#p2
+{
+	font-size: 28px;
+	text-align: center;
+	background-color: green;
+}
+footer
+{
+	border-top: black solid;
+}
+header
+{
+	border-bottom: black solid;
+	margin-right: 1.5%;
+}
+#article
+{
+display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.artl1
+{
+	float: left;
+}
+#top
+{
+	text-align: center;
+	font-size: 32px;
+	
+}
+
+#lien11
+{
+	text-align: center;
+	height: 28px;
+}
